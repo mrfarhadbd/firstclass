@@ -1,0 +1,60 @@
+#linux command 
+## for listing 
+ls
+
+## for change directory
+cd <foldername>
+
+## to know presenet working directory
+pwd
+
+##to copy file and folder 
+cp <path1> <path2>
+
+##to move file and folder 
+mv <path1> <path2>
+
+
+## to creat a file 
+touch <filename>
+
+##to creat a folder 
+mkdir <foldername>
+
+##fo remove file 
+rm<filename>
+
+##flag:always start with -
+r=recursive 
+f =force
+a =all 
+
+##identifire 
+.=current folder 
+.. =parent folder 
+* =everithing 
+
+
+flag == 
+rm -fr <file/foldername >
+-------------------------------
+
+html =hyper text markup language 
+
+tag 
+atribuite 
+sourch 
+
+
+css = cascading style sheet 
+js =java scrift 
+  
+
+php=  
+
+
+
+
+
+
+

@@ -1,0 +1,155 @@
+#linux command 
+## for listing 
+ls
+
+## for change directory
+cd <foldername>
+
+## to know presenet working directory
+pwd
+
+##to copy file and folder 
+cp <path1> <path2>
+
+##to move file and folder 
+mv <path1> <path2>
+
+
+## to creat a file 
+touch <filename>
+
+##to creat a folder 
+mkdir <foldername>
+
+##fo remove file 
+rm<filename>
+
+##flag:always start with -
+r=recursive 
+f =force
+a =all 
+
+##identifire 
+.=current folder 
+.. =parent folder 
+* =everithing 
+
+
+flag == 
+rm -fr <file/foldername >
+-------------------------------
+
+html =hyper text markup language 
+
+tag 
+atribuite=img  
+sourch 
+value 
+ankor tag for link (a href)
+p 
+h
+ul 
+li 
+ol 
+from=input 
+button 
+table 
+tr 
+td 
+th 
+a 
+img 
+#attribuit 
+border {number }
+action {some page }
+method {get, post}
+input >type{text. button, radio. 
+id 
+class 
+
+
+
+
+ 
+
+
+link list 
+1.ol >li
+2.ul >li
+3.dl >dt+dd
+
+table= tr .td 
+>>>>>>>>>>>>>>
+
+#css = cascading style sheet 
+extention is .css
+
+selector {property:value;
+}
+
+
+
+##color 
+name
+hexa decimal =16_ 0 1 2 3  4 5 6 7 8 9 abcdef
+#000000=6ta
+#ffffff
+ 
+
+rgb =red green blue (0, 121, 255)(8,120,231)
+rgba =red green blue alpha(255,255,255, 5); 
+hsl= hue saturation light (10%, 5%, 20%)
+
+#UNIT 
+relative 
+%
+em
+rem 
+
+absolute
+px 
+pt 
+12=16px=1em
+
+px 1367x768 HD 1050x1920= FHD
+
+font family 
+3type 
+serif =less 
+sans-serif=no less 
+monospace=plat same
+
+spacing
+ 
+margin
+clock wise _
+top 
+right 
+bottom 
+left
+
+padding _
+top 
+right 
+bottom 
+left 
+
+
+selector -- 5 selector
+ 
+tag selector = tag 
+id selector start with = #
+class selector start with = . (dot)
+psedu selector = :
+attribute selector = []
+
+
+
+
+
+
+
+
+
+
+

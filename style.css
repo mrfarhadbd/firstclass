@@ -1,0 +1,53 @@
+body {
+background: magenta;
+width: 80%;
+margin:auto;
+ font-family: arial, 'times new roman', sans-serif;
+color: white;
+}
+
+
+header {
+	
+
+}
+header ul{
+background: red;
+}
+header ul li {
+display: inline-block;
+
+}
+header ul li a{
+text-decoration: none;
+}
+header ul li a:hover{
+
+
+}
+.farhad{
+
+
+
+}
+.farhad .farhadc{
+
+
+}
+.farhad .farhadc ul {
+
+
+}
+.farhad .farhadc ul li {
+
+
+}
+.farhad aside {
+
+
+
+}
+footer {
+
+
+}
